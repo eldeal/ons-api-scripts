@@ -1,0 +1,351 @@
+Deaths registered weekly in England and Wales by age and sex
+  Contains: 
+  - Label: "Age groups" CodeList: "age-groups"
+  - Label: "Deaths" CodeList: "recorded-deaths"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Week" CodeList: "week-number"
+Suicide registrations in England and Wales by local authority
+  Contains: 
+  - Label: "" CodeList: "administrative-geography"
+  - Label: "" CodeList: "calendar-years"
+Sexual orientation by English regions and UK countries
+  Contains: 
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Sexual orientation" CodeList: "sexual-orientation"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Unit of measure" CodeList: "unit-of-measure"
+Population Estimates for UK, England and Wales, Scotland and Northern Ireland
+  Contains: 
+  - Label: "Age" CodeList: "single-year-of-age"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+Earnings and Hours Worked, Work and Residence-Based Travel to Work Area: ASHE Tables 11 and 12
+  Contains: 
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Geography" CodeList: "travel-to-work-area"
+  - Label: "Hours and earnings" CodeList: "hours-and-earnings"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Working pattern" CodeList: "working-pattern"
+  - Label: "Workplace or residence" CodeList: "workplace-or-residence"
+Retail sales index - all businesses
+  Contains: 
+  - Label: "Geography" CodeList: "countries"
+  - Label: "Prices" CodeList: "type-of-prices"
+  - Label: "Seasonal adjustment" CodeList: "seasonal-adjustment"
+  - Label: "Time" CodeList: "years-quarters-months"
+  - Label: "Standard industrial classification" CodeList: "sic-unofficial"
+Annual GDP for England, Wales and the English regions
+  Contains: 
+  - Label: "Geography" CodeList: "nuts"
+  - Label: "Measure" CodeList: "quarterly-index-and-growth-rate"
+  - Label: "Prices" CodeList: "type-of-prices"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Standard Industrial Classification" CodeList: "sic-unofficial"
+House price statistics for small areas in England and Wales
+  Contains: 
+  - Label: "Property status" CodeList: "build-status"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "House price variable" CodeList: "house-sales-and-prices"
+  - Label: "Month" CodeList: "mmm"
+  - Label: "Property type" CodeList: "property-type"
+  - Label: "Year" CodeList: "calendar-years"
+GDP monthly estimate (incorporating the Index of Services and Index of Production)
+  Contains: 
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Time" CodeList: "mmm-yy"
+  - Label: "Standard Industrial Classification" CodeList: "sic-unofficial"
+Earnings and hours worked, care workers: ASHE Table 26
+  Contains: 
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Hours and earnings" CodeList: "hours-and-earnings"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Working pattern" CodeList: "working-pattern"
+Local authority ageing statistics, population projections for older people
+  Contains: 
+  - Label: "Age groups" CodeList: "age-groups"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Unit of measure" CodeList: "unit-of-measure"
+Local authority ageing statistics, based on annual mid-year population estimates
+  Contains: 
+  - Label: "Age groups" CodeList: "age-groups"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Unit of measure" CodeList: "unit-of-measure"
+Sexual orientation by age and sex
+  Contains: 
+  - Label: "Age groups" CodeList: "age-groups"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Sexual orientation" CodeList: "sexual-orientation"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Unit of measure" CodeList: "unit-of-measure"
+Local authority ageing statistics, sex ratios for people aged 65 and over and 85 and over
+  Contains: 
+  - Label: "Age groups" CodeList: "age-groups"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Time" CodeList: "calendar-years"
+Local authority ageing statistics, net internal migration people aged 65 and over and 85 and over
+  Contains: 
+  - Label: "Age groups" CodeList: "age-groups"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+UK Labour Market
+  Contains: 
+  - Label: "Age groups" CodeList: "age-groups"
+  - Label: "Economic activity" CodeList: "economic-activity"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Seasonal adjustment" CodeList: "seasonal-adjustment"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "mmm-mmm-yyyy"
+  - Label: "Unit of measure" CodeList: "unit-of-measure"
+Index of Private Housing Rental Prices
+  Contains: 
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Variable" CodeList: "index-and-year-change"
+  - Label: "Time" CodeList: "mmm-yy"
+Generational income: The effects of taxes and benefits
+  Contains: 
+  - Label: "Age" CodeList: "single-year-of-age"
+  - Label: "Decade" CodeList: "decade"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Time" CodeList: "yyyy-to-yyyy-yy"
+  - Label: "Type of tax or benefit" CodeList: "tax-benefit-type"
+Earnings and hours worked, place of work and place of residence by Parliamentary constituency: ASHE Tables 9 and 10
+  Contains: 
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Geography" CodeList: "parliamentary-constituencies"
+  - Label: "Hours and earnings" CodeList: "hours-and-earnings"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Year" CodeList: "calendar-years"
+  - Label: "Working pattern" CodeList: "working-pattern"
+  - Label: "Workplace or residence" CodeList: "workplace-or-residence"
+Deaths registered weekly in England and Wales by region
+  Contains: 
+  - Label: "Deaths" CodeList: "recorded-deaths"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Week" CodeList: "week-number"
+Effects of Taxes and Benefits on Household Income
+  Contains: 
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Deflation status" CodeList: "value-deflation"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Income type" CodeList: "income-type"
+  - Label: "Quintile" CodeList: "quintile"
+  - Label: "Time" CodeList: "financial-and-calendar-years"
+Retail sales index
+  Contains: 
+  - Label: "Geography" CodeList: "countries"
+  - Label: "Prices" CodeList: "type-of-prices"
+  - Label: "Seasonal adjustment" CodeList: "seasonal-adjustment"
+  - Label: "Time" CodeList: "mmm-yy"
+  - Label: "Standard industrial classification" CodeList: "sic-unofficial"
+Local authority ageing statistics, projected sex ratios for older people
+  Contains: 
+  - Label: "Age group" CodeList: "age-groups"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Time" CodeList: "calendar-years"
+Local authority ageing statistics, household projections for older people
+  Contains: 
+  - Label: "Age group" CodeList: "age-groups"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+Earnings and hours worked, UK region by public and private sector: ASHE Table 25
+  Contains: 
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Hours and earnings" CodeList: "hours-and-earnings"
+  - Label: "Sector" CodeList: "sector"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Working pattern" CodeList: "working-pattern"
+Personal well-being estimates by local authority
+  Contains: 
+  - Label: "Estimate" CodeList: "wellbeing-estimate"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "All measures of wellbeing" CodeList: "measure-of-wellbeing"
+  - Label: "Time" CodeList: "yyyy-yy"
+Death registrations and occurrences by health board and place of death
+  Contains: 
+  - Label: "Cause of death" CodeList: "cause-of-death"
+  - Label: "Geography" CodeList: "local-health-board"
+  - Label: "Place of death" CodeList: "place-of-death"
+  - Label: "Registration or occurrence" CodeList: "registration-or-occurrence"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Week" CodeList: "week-number"
+Trade in goods: country by commodity
+  Contains: 
+  - Label: "Country" CodeList: "countries-and-territories"
+  - Label: "Direction" CodeList: "trade-direction"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Commodity" CodeList: "sitc"
+  - Label: "Time" CodeList: "mmm-yy"
+Quarterly GDP for England, Wales and the English regions
+  Contains: 
+  - Label: "Geography" CodeList: "nuts"
+  - Label: "Measure" CodeList: "quarterly-index-and-growth-rate"
+  - Label: "Prices" CodeList: "type-of-prices"
+  - Label: "Time" CodeList: "yyyy-qq"
+  - Label: "Standard Industrial Classification" CodeList: "sic-unofficial"
+Faster Indicators - Online Job Advert Estimates
+  Contains: 
+  - Label: "Adzuna jobs category" CodeList: "adzuna-jobs-category"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Week" CodeList: "week-number"
+Consumer Prices Index including owner occupiers' housing costs (CPIH)
+  Contains: 
+  - Label: "Aggregate" CodeList: "cpih1dim1aggid"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Time" CodeList: "mmm-yy"
+Death registrations and occurrences by local authority and place of death
+  Contains: 
+  - Label: "Cause of death" CodeList: "cause-of-death"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Place of death" CodeList: "place-of-death"
+  - Label: "Registration or occurrence" CodeList: "registration-or-occurrence"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Week" CodeList: "week-number"
+Coronavirus and the latest indicators for the UK economy and society: Shipping indicators
+  Contains: 
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Port" CodeList: "shipping-port"
+  - Label: "Ship and visit type" CodeList: "ship-and-visit-type"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Week" CodeList: "week-number"
+Earnings and hours worked, region by occupation by two-digit SOC: ASHE Table 3
+  Contains: 
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Hours and earnings" CodeList: "hours-and-earnings"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Standard Occupational Classification" CodeList: "soc"
+  - Label: "Year" CodeList: "calendar-years"
+  - Label: "Working pattern" CodeList: "working-pattern"
+Earnings and hours worked, place of work and place of residence by local enterprise partnerships: ASHE Tables 27 and 28
+  Contains: 
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Geography" CodeList: "enterprise-regions"
+  - Label: "Hours and earnings" CodeList: "hours-and-earnings"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Working pattern" CodeList: "working-pattern"
+  - Label: "Workplace or residence" CodeList: "workplace-or-residence"
+Earnings and hours worked, age group by occupation by two-digit SOC: ASHE Table 20
+  Contains: 
+  - Label: "Age groups" CodeList: "age-groups"
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Hours and earnings" CodeList: "hours-and-earnings"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Standard Occupational Classification" CodeList: "soc"
+  - Label: "Year" CodeList: "calendar-years"
+  - Label: "Working pattern" CodeList: "working-pattern"
+Earnings and hours worked, place of work and residence by local authority: ASHE Tables 7 and 8 
+  Contains: 
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Hours and earnings" CodeList: "hours-and-earnings"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Year" CodeList: "calendar-years"
+  - Label: "Working pattern" CodeList: "working-pattern"
+  - Label: "Workplace or residence" CodeList: "workplace-or-residence"
+Quarterly personal well-being estimates
+  Contains: 
+  - Label: "Estimate" CodeList: "wellbeing-estimate"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "All measures of wellbeing" CodeList: "measure-of-wellbeing"
+  - Label: "Seasonal adjustment" CodeList: "seasonal-adjustment"
+  - Label: "Time" CodeList: "yyyy-qq"
+UK spending on credit and debit cards
+  Contains: 
+  - Label: "Category" CodeList: "spend-category"
+  - Label: "Day/month" CodeList: "dd-mm"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Time" CodeList: "calendar-years"
+Traffic Camera Activity
+  Contains: 
+  - Label: "Day/month" CodeList: "dd-mm"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Pedestrians and vehicles" CodeList: "pedestrians-and-vehicles"
+  - Label: "Seasonal adjustment" CodeList: "seasonal-adjustment"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Traffic camera area" CodeList: "traffic-camera-area"
+Retail sales index - large and small businesses
+  Contains: 
+  - Label: "Geography" CodeList: "countries"
+  - Label: "Prices" CodeList: "type-of-prices"
+  - Label: "Seasonal adjustment" CodeList: "seasonal-adjustment"
+  - Label: "Time" CodeList: "years-quarters-months"
+  - Label: "Standard industrial classification" CodeList: "sic-unofficial"
+Output in the construction industry
+  Contains: 
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Seasonal adjustment" CodeList: "seasonal-adjustment"
+  - Label: "Series type" CodeList: "construction-series-type"
+  - Label: "Time" CodeList: "years-quarters-months"
+  - Label: "Type of work" CodeList: "construction-classifications"
+Expenditure on healthcare: UK Health Accounts
+  Contains: 
+  - Label: "Financing scheme" CodeList: "healthcare-financing-scheme"
+  - Label: "Geography" CodeList: "uk-only"
+  - Label: "Healthcare function" CodeList: "healthcare-function"
+  - Label: "Healthcare provider" CodeList: "healthcare-provider"
+  - Label: "Prices" CodeList: "type-of-prices"
+  - Label: "Time" CodeList: "calendar-years"
+Children's Well-being Measures
+  Contains: 
+  - Label: "Estimate" CodeList: "wellbeing-estimate"
+  - Label: "Geography" CodeList: "countries"
+  - Label: "All measures of well-being" CodeList: "measure-of-wellbeing"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+Earnings and Hours Worked, UK Region by Industry by Two-Digit SIC: ASHE Table 5
+  Contains: 
+  - Label: "Statistics" CodeList: "averages-and-percentiles"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Hours and earnings" CodeList: "hours-and-earnings"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Standard Industrial Classification" CodeList: "sic"
+  - Label: "Year" CodeList: "calendar-years"
+  - Label: "Working pattern" CodeList: "working-pattern"
+UK Business: Activity, Size and Location
+  Contains: 
+  - Label: "Enterprises and local units" CodeList: "enterprises-and-local-units"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Broad Industry Group" CodeList: "sic-unofficial"
+Local authority ageing statistics, older people economic activity
+  Contains: 
+  - Label: "Economic activity" CodeList: "economic-activity"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "calendar-years"
+Life Expectancy by Local Authority
+  Contains: 
+  - Label: "Age group" CodeList: "age-groups"
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Sex" CodeList: "sex"
+  - Label: "Time" CodeList: "two-year-intervals"
+GVA by industry by local authority
+  Contains: 
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Variables" CodeList: "type-of-prices"
+  - Label: "Time" CodeList: "calendar-years"
+  - Label: "Standard Industrial Classification" CodeList: "sic-unofficial"
+GDP by local authority
+  Contains: 
+  - Label: "Geography" CodeList: "administrative-geography"
+  - Label: "Variables" CodeList: "type-of-prices"
+  - Label: "Time" CodeList: "calendar-years"
