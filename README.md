@@ -1,36 +1,24 @@
-## ONS API Scripts
+# ONS API Scripts
 
 A place to gather helpful scripts and examples of how to extract data from ONS APIs. The [Developer Hub](developer.ons.gov.uk) contains official documentation of the APIs, these scripts are not a replacement for that.
 
-### List of datasets and their dimensions
+Scripts in this repository may be available in R or Go, with relevant instructions on running in each case.
+
+## List of datasets and their dimensions
 
 This script is intended to give a high level overview of the data available through the ONS API.
 It lists datasets, and the dimensions available within them so multiple datasets with similar 
 dimensions or characteristics can easily be identified.
 
-#### R Script
+[R Script](r/README.md#list-of-datasets-and-their-dimensions)
 
-Load the [dimensions-by-datasets.r](r/dimensions-by-datasets.r) script in your preferred R tooling (RStudio etc) and run. 
+[Go executable](dimensions-by-datasets/README.md)
 
-If you do not have access to any IDE software, try copy/pasting the code [online tools](https://makemeanalyst.com/run-your-r-code/) which will run the script for you.
+## List of latest CSV URLs
 
-Currently, the data is output using simple `print()` commands, so you can extend it/format the results however is most suitable.
+This script lists datasets, their release frequency and the latest version CSV.
+It could be extended to take seed data or filter the results to only a particular set of dataset IDs and editions.
 
-#### Executable Go Script
 
-Execute the code in the [dimensions-by-datasets](dimensions-by-datasets) directory, and pass the results to a file.
-
-> ./dimensions-by-datasets > results.txt
-
-This will give you results in the format:
-
-```
-Life Expectancy by Local Authority
-  Contains:
-  - Label: "Age group" CodeList: "age-groups"
-  - Label: "Geography" CodeList: "administrative-geography"
-  - Label: "Sex" CodeList: "sex"
-  - Label: "Time" CodeList: "two-year-intervals"
-  ```
-For more details see the [README](dimensions-by-datasets/README.md).
+[R Script](r/README.md#list-of-latest-csv-urls)
 
